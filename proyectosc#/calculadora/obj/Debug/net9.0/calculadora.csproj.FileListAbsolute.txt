@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\bin\Debug\net9.0\calculadora.exe
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\bin\Debug\net9.0\calculadora.deps.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\bin\Debug\net9.0\calculadora.runtimeconfig.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\bin\Debug\net9.0\calculadora.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\bin\Debug\net9.0\calculadora.pdb
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\calculadora.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\calculadora.sourcelink.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\calculadora.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\refint\calculadora.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\calculadora.pdb
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\calculadora.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\calculadora\obj\Debug\net9.0\ref\calculadora.dll

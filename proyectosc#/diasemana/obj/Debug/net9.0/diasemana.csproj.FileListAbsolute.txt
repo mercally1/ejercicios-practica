@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\bin\Debug\net9.0\diasemana.exe
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\bin\Debug\net9.0\diasemana.deps.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\bin\Debug\net9.0\diasemana.runtimeconfig.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\bin\Debug\net9.0\diasemana.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\bin\Debug\net9.0\diasemana.pdb
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\diasemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\diasemana.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\diasemana.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\diasemana.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\diasemana.sourcelink.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\diasemana.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\refint\diasemana.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\diasemana.pdb
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\diasemana.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\diasemana\obj\Debug\net9.0\ref\diasemana.dll
