@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\bin\Debug\net9.0\fizzbuzz.exe
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\bin\Debug\net9.0\fizzbuzz.deps.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\bin\Debug\net9.0\fizzbuzz.runtimeconfig.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\bin\Debug\net9.0\fizzbuzz.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\bin\Debug\net9.0\fizzbuzz.pdb
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\fizzbuzz.sourcelink.json
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\fizzbuzz.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\refint\fizzbuzz.dll
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\fizzbuzz.pdb
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\proyectopractica\proyectosc#\fizzbuzz\obj\Debug\net9.0\ref\fizzbuzz.dll
